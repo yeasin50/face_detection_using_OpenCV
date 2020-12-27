@@ -21,3 +21,11 @@ Now check again
 -  Train data running [trainer.py](https://github.com/yeasin50/face_detection_using_OpenCV/blob/master/trainer.py)
 
 -  verify work by running [face_recognition.py](https://github.com/yeasin50/face_detection_using_OpenCV/blob/master/face_recognition.py)
+
+### Clone or [download as Zip](https://github.com/yeasin50/face_detection_using_OpenCV/archive/master.zip) extract
+
+open directory in terminal. Check the files (usng ls for linux, dir for window). if you find those file name, then it's fine. else open/redirect currect folder on terminal.
+
+To run python script type python myFileName.py 
+
+⚠ test
