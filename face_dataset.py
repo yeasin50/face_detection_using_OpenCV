@@ -10,8 +10,8 @@ cam.set(10,100) #brightness
 
 
 face_detector = cv2.CascadeClassifier('assets/haarcascade_frontalface_default.xml')
-face_id = 1
-# face_id = input('\nEnter user id: ')
+# face_id = 1
+face_id = input('\nEnter user id: ')
 print('\n [INFO] Initializing face capture.')
 
 

@@ -14,7 +14,7 @@ id = 0
 
 ## names of user that will show on screen
 # size of array determine total verified/test cases
-names = ["alice", "bob", "A", "C", 'Z', 'W'] 
+names = ["Yeasin", "Mom", "A", "C", 'Z', 'W'] 
 
 # Initialize and start realtime video capture
 cam = cv2.VideoCapture(0)
