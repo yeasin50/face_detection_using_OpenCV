@@ -10,6 +10,11 @@ then simply goto terminal
 after that use old version of numpy
  - pip install numpy==1.19.3
 
+
+You may need to install if there
+```
+pip install opencv-contrib-python
+```
 Now check again 
 
 
